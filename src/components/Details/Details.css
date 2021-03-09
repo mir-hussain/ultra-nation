@@ -1,0 +1,22 @@
+.details-header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.country-details {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: gray;
+  border-radius: 5px;
+}
+
+.details-flag-container {
+  width: 500px;
+  margin-right: 50px;
+}
+
+.details-flag-container > img {
+  width: 100%;
+}
